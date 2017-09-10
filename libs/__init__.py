@@ -1,1 +1,2 @@
-from libs.Collector import Collector
+from libs.DataCollector import Collector
+from libs.DataAnalyzer import DataAnalyzer
